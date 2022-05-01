@@ -1,0 +1,22 @@
+.deletePosts {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.searchBy {
+  padding: 5px;
+  border-radius: 10px;
+  width: 15%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.inputSearchTerm {
+  padding: 5px;
+  border-radius: 10px;
+  width: 60%;
+  margin-bottom: 5px;
+  border: 1px solid lightgrey;
+}

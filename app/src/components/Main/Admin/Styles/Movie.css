@@ -1,0 +1,55 @@
+.buttonAdmin {
+  padding: 5px;
+  margin-right: 5px;
+  border: 1.5px solid #EB0000;
+  border-radius: 10px;
+  background-color: white;
+  font-weight: bold;
+  color: #EB0000;
+}
+
+.spanAdmin {
+  font-weight: bold;
+}
+
+.spanAttribute {
+  margin-right: 10px;
+}
+
+.movieAdmin {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow: hidden;
+}
+
+.movieAvatarAdmin {
+  height: 10%;
+  width: 10%;
+  float: left; 
+  margin: 10px;
+}
+
+.capitalizeAdmin {
+    text-transform: capitalize;
+}
+
+.movieRatingAdmin {
+    color:gray;
+    font-size: medium;
+
+}
+
+.avatarDiv {
+  float: left; 
+}
+
+.movieDetailsAdmin {
+  overflow: hidden;
+}
+
+
+.movieItem {
+  overflow: hidden;
+}

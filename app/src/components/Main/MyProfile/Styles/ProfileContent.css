@@ -1,0 +1,18 @@
+.recent-activity-icon {
+    width: 65px;
+    height: 65px;
+    margin-right: 20px;
+    border-radius: 50px;
+    border: 1px solid lightgrey;
+}
+
+.profile_cont_load_more {
+	width: -webkit-fill-available;
+	margin: 20px;
+	padding: 10px;
+    border: 1px solid #EB0000;
+    border-radius: 10px;
+    background-color: #EB0000;
+    font-weight: bold;
+    color: white;
+}

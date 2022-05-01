@@ -1,0 +1,120 @@
+.follow {
+    display: inline-block;
+    float: right;
+    font-size: 20px;
+    border: 1.5px solid #EB0000;
+    border-radius: 10px;
+    background-color: white;
+    font-weight: bold;
+    color: #EB0000;
+    
+}
+
+.unfollow {
+    display: inline-block;
+    float: right;
+    font-size: 20px;
+    border: 1.5px solid white;
+    border-radius: 10px;
+    background-color: #EB0000;
+    font-weight: bold;
+    color: white;
+}
+
+.user-info {
+    display: inline-block;
+    font-size: 20px;
+}
+
+.user-first-name {
+    display:inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 5px;
+    margin-left: 10px;
+}
+
+.rec-user {
+    border-style: solid;
+    border-color: #EB0000;
+    margin-bottom: 10px;
+    margin-right: 7px;
+    padding-top: 10px;
+    padding-right: 5px;
+    padding-left:5px;
+    border-radius: 10px;
+}
+
+.rec-user-avatar {
+    border-radius: 50%;
+    display: inline-block;
+    float: left;
+    height: 30px;
+    width: 30px;
+}
+
+.search-user-option {
+    padding-top: 10px;
+    padding-right: 5px;
+    padding-left:5px;
+}
+
+.search-user-avatar {
+    border-radius: 50%;
+    display: inline-block;
+    float: left;
+    height: 25px;
+    width: 25px;
+}
+
+.search-follow {
+    display: inline-block;
+    float: right;
+    font-size: 14px;
+    border: 1.5px solid #EB0000;
+    border-radius: 10px;
+    background-color: white;
+    font-weight: bold;
+    color: #EB0000;
+    
+}
+
+.search-unfollow {
+    display: inline-block;
+    float: right;
+    font-size: 14px;
+    border: 1.5px solid white;
+    border-radius: 10px;
+    background-color: #EB0000;
+    font-weight: bold;
+    color: white;
+    
+}
+
+.search-user-info {
+    display: inline-block;
+    font-size: 14px;
+}
+
+.search-user-first-name {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+#userList {
+    max-height: 300px;
+    overflow: auto;
+    width: 75%;
+}
+
+.select-search .select-search__input {
+    width: 60%;
+}
+
+#find-friends-no-recom {
+    font-weight: 100;
+    font-size: 120%;
+}

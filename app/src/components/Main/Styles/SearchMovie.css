@@ -1,0 +1,128 @@
+.movie-poster {
+    width: 25%;
+    max-height: 100%;
+    display: inline-block;
+    float: left;
+    margin-right: 10px;
+}
+
+/*  select-search styling  from: https://github.com/tbleckert/react-select-search/blob/HEAD/style.css*/
+
+.select-search__select {
+    z-index: 1;
+    right: 0;
+    left: 0;
+    top: 10px;
+    border-radius: 3px;
+    position: relative;
+    max-height: 260px;
+    background: #fff;
+}
+
+.select-search__options {
+    z-index:2;
+    position: absolute;
+    list-style: none;
+    width: 60%;
+    max-height: 260px;
+    background: #fff;
+    overflow: auto;
+    box-shadow: -0.0225rem 0.0625rem 0.0625rem 0.0625rem rgb(0 0 0 / 15%);
+    border-radius: 3px;
+}
+
+.select-search__option, .select-search__not-found {
+    display: block;
+    height: 36px;
+    width: 100%;
+    padding: 0;
+    background: #fff;
+    border: none;
+    outline: none;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px;
+    text-align: left;
+    cursor: pointer;
+}
+
+.select-search__row:not(:first-child) {
+    border-top: 1px solid #eee;
+}
+
+.select-search__input {
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    padding: 7.5px;
+}
+
+.select-search__input-movie {
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    padding: 7.5px;
+    width: 60%;
+}
+
+ul {
+    padding-inline-start: 5px;
+}
+
+.pie {
+    display: inline-block;
+    width: 35%;
+    height: 100%;
+    float: right;
+}
+
+.pie-title {
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.pie-chart {
+    width: 98%;
+    max-height: 98%;
+}
+
+.chartjs-render-monitor {
+    display: inline-block !important;
+    width: 50%;
+}
+
+#movieInfo {
+    min-height: 360px;
+    height: 50vh;
+}
+
+#barCharts {
+    padding-top: 50px;
+}
+
+.bar-chart-f {
+    display: inline-block;
+    float: left;
+    width: 50%;
+}
+
+.bar-chart-m {
+    display: inline-block;
+    width: 50%;
+}
+
+text {
+    font-size: 7px;
+}
+
+.synopsis {
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    margin-left: 26%;
+    width: 35%;
+    padding: 10px;
+    font-weight: 100;
+}
+
+#no-rating-data-info {
+    font-weight: 100;
+    margin-top: 20px;
+    text-align: center;
+}

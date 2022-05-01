@@ -1,0 +1,242 @@
+#profile-intro {
+    font-size: 250%;
+    font-weight: 300;
+}
+
+.profile-header {
+    padding-top: 10px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#setting-intro {
+    font-size: 250%;
+    font-weight: 300;
+    color: white;
+
+}
+
+#profile-following {
+    font-size: 150%;
+    font-weight: 100;
+    margin-left: 1%;
+}
+
+#user-avatar {
+    height: 10%;
+    width: 10%;
+    border-radius: 50%;
+    float: left;
+    border: 1px solid lightgrey;
+}
+
+/* avatar in settings popup */
+
+#user-avatar2 {
+    height: 15%;
+    width: 15%;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+#setting-form {
+    height: 5%;
+    width: 5%;
+}
+
+#activity-intro {
+    font-size: 200%;
+    font-weight: 100;
+}
+
+#recent-activity {
+    margin-top: 5%;
+}
+
+
+#separator {
+    height:2px;
+    border-width:0;
+    color:gray;
+    background-color:gray
+}
+
+.new-firstname {
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.setting-input {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.new-lastname {
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.cur-password {
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+	border: 1px solid lightgrey;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.new-password {
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.new-password2 {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.setting-title {
+    margin-left: 20px;
+}
+
+.logout-btn {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid #EB0000;
+    border-radius: 10px;
+    background-color: #EB0000;
+    font-weight: bold;
+    color: white;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.file-upload {
+    float: bottom;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.setting-button {
+    margin-top:4px;
+    float: left;
+    padding: 5px;
+    border: 1.5px solid #EB0000;
+    border-radius: 10px;
+    background-color: white;
+    font-weight: bold;
+    color: #EB0000;
+
+}
+
+.setting-button:hover {
+    background-color: red;
+    color: white;
+}
+
+.profile-div {
+    background-color: #EB0000;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.choose-file-btn {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#password-alert {
+    margin-left: 20px;
+    color: #EB0000;
+    float: left;
+    margin-top: 10px;
+    
+} 
+
+#firstname-update {
+    margin-left: 20px;
+    float: left;
+    padding: 9px;
+}
+
+#lastname-update {
+    margin-left: 20px;
+    float: left;
+    padding: 9px;
+}
+
+#password-update {
+    margin-left: 20px;
+    float: left;
+    padding: 9px;
+}
+
+.prof-section {
+    float: left;
+    padding-right: 10px;
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+.pass-div {
+    float: left;
+}
+
+#login-alert {
+    color:#EB0000;
+}
+
+#new-image-div {
+    float:left;
+    width: 50%;
+    padding: 10px;
+    margin-left: 11px;
+}
+
+#picture-div {
+    width: 25%;
+    float: left;
+}
+.new-image {
+    height: 70%;
+    width: 70%;
+    padding: 5%;
+    border-radius: 50%;
+    border: 1px solid grey;
+}
+
+#img-button {
+    float: left;
+    position:relative;
+    top: 90px;
+}

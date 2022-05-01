@@ -1,0 +1,13 @@
+.admin {
+    width: 80%;
+}
+
+/* Box shadow taken from https://getcssscan.com/css-box-shadow-examples */
+.database {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 20px;
+    margin: 20px;
+    height: 225vh;
+}
+
+

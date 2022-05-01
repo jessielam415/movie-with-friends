@@ -1,0 +1,64 @@
+#timeline-content-cont {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#post-cont {
+	border-radius: 5px;
+}
+
+#post-title {
+	font-size: 150%;
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+
+#list-post {
+	font-weight: 100;
+}
+
+#items {
+	list-style: none;
+	padding: 10px;
+	border: 1px solid lightgrey;
+	border-radius: 10px;
+	width: 25%;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.inner-post {
+	margin: 20px;
+}
+
+.timeline-icon {
+	width: 65px;
+	height: 65px;
+	margin-right: 20px;
+	border-radius: 50px;
+	border: 1px solid lightgrey;
+}
+
+.checked {
+	color: #E6AF2E;
+}
+
+.inner-post canvas {
+	width: 60vw !important;
+	height: 60vh !important;
+	margin-top: 25px;
+}
+
+.poll-vote-option {
+	list-style: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+
+.poll-vote-button {
+	background-color: white;
+	color:  #EB0000;
+	border: 1px solid  #EB0000;
+	border-radius: 10px;
+}

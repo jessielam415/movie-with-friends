@@ -1,0 +1,49 @@
+#timeline-title {
+	font-weight: bold;
+	font-size: 200%;
+}
+
+#create-post {
+	border-radius: 10px;
+}
+
+#create-post-content {
+	padding: 20px 0px 0px 10px;
+}
+
+#timeline-post-title {
+	margin: 20px;
+	font-size: 200%;
+	font-weight: 100;
+}
+
+#timeline-post-tabs {
+	margin-left: 20px;
+}
+
+.modal-dialog {
+	max-width: 70vw;
+}
+
+#timeline-intro {
+	font-size: 250%;
+	font-weight: 100;
+}
+
+#timeline-modal-button {
+	position: relative;
+	top: 20px;
+	float: right;
+}
+
+#timeline-modal-trigger {
+	border-radius: 10px;
+	background-color: white;
+	font-weight: 100;
+	color: black;
+	border-color: lightgrey;
+}
+
+#timeline-modal-trigger:hover {
+	background-color: lightgrey;
+}

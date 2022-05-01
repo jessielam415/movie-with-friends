@@ -1,0 +1,45 @@
+.card {
+	width: 18rem;
+}
+
+#main-cont {
+	width: 100%;
+	max-width: 95vw;
+    margin-top: 15vh;
+	margin-left: 0.5%;
+	margin-bottom: 6vh;
+}
+
+.menu-button {
+	border:0;
+	background-color: white;
+	padding: 0;
+	text-align: left;
+	font-weight: 100;
+}
+
+.list-group-item:hover {
+	background-color: #EB0000;
+	color: white;
+}
+
+.list-group-item {
+	border-left: 0;
+	border-right: 0;
+	border-bottom: 0;
+}
+
+.active-button {
+	background-color: #EB0000;
+	color: white;
+}
+
+#left-menu-cont {
+	position: fixed;
+	margin-top: -29px;
+}
+
+#right-cont-main {
+	margin-left: 19rem;
+	margin-top: -29px;
+}

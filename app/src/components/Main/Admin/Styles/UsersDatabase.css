@@ -1,0 +1,85 @@
+.searchBy {
+  padding: 5px;
+  border-radius: 10px;
+  width: 15%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.inputSearchTerm {
+  padding: 5px;
+  border-radius: 10px;
+  width: 60%;
+  margin-bottom: 5px;
+  border: 1px solid lightgrey;
+}
+
+.selectAdmin {
+    padding: 10px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    width: 55%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+.textareaAdmin {
+    padding: 10px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    width: 55%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+/*Pagination button styling references tutorial 
+https://www.youtube.com/watch?v=HANSMtDy508&t=170s&ab_channel=PedroTech */
+
+.paginationBttnsAdmin {
+  width: 80%; 
+  height: 40px;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+
+}
+
+.paginationBttnsAdmin a {
+  padding: 10px;
+  margin: 8px;
+  border-radius: 5px;
+  border: 1px solid red;
+  color: red;
+  cursor: pointer;
+}
+
+.paginationBttnsAdmin a:hover {
+  color: white;
+  background-color: rgb(240, 188, 188);
+}
+ 
+.paginationActiveAdmin a {
+  color: white;
+  background-color: rgb(240, 188, 188);
+}
+
+.inputAdmin {
+    padding: 10px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    width: 55%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.textareaAdmin {
+  padding: 10px;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  width: 55%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}

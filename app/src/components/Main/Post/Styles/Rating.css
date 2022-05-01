@@ -1,0 +1,83 @@
+.rating-rating {
+    width: 250px;
+    padding: 10px;
+    padding-left: 0px;
+    margin-top: 7px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    text-align:center;
+    float: right;
+}
+
+.rating-input {
+	width: -webkit-fill-available;
+	margin: 20px;
+	border: 1px solid lightgrey;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.rating-submit {
+	width: -webkit-fill-available;
+	margin: 20px;
+	padding: 10px;
+    border: 1px solid #EB0000;
+    border-radius: 10px;
+    background-color: #EB0000;
+    font-weight: bold;
+    color: white;
+}
+
+#rating-movie-search {
+	width: 25%;
+    /* margin: 20px; */
+    padding: 10px;
+    padding-left: 0;
+    margin-left: 20px;
+    margin-right: 0px;
+    float: left;
+}
+
+#rating-star-cont {
+    width: 100%;
+    margin: 20px;
+}
+
+.fa {
+    font-size: 200%;
+}
+
+#rating-movie-sel-cont {
+    height: 60px;
+}
+
+#movie {
+    width: 60%;
+    margin: 0;
+    padding: 10px;
+    float: left;
+    font-weight: bold;
+}
+
+#rating-movie-search .select-search {
+	float: left;
+}
+
+#rating-movie-search .select-search__input {
+	border: 1px solid lightgray;
+    border-radius: 10px;
+    width: 100%;
+}
+
+#rating-movie-search .select-search__options {
+    width: 100%;
+}
+.checked {
+    color: #E6AF2E;
+}
+
+#rating-alert {
+    color: #EB0000;
+}

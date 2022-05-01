@@ -1,0 +1,72 @@
+.list-input {
+	width: -webkit-fill-available;
+	margin: 20px;
+	border: 1px solid lightgrey;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.list-submit {
+	width: -webkit-fill-available;
+	margin: 20px;
+	padding: 10px;
+    border: 1px solid #EB0000;
+    border-radius: 10px;
+    background-color: #EB0000;
+    font-weight: bold;
+    color: white;
+}
+
+.list-input-cat {
+    width: 70%;
+    margin: 20px 5% 20px 20px;
+    border: 1px solid lightgrey;
+    padding: 10px;
+    border-radius: 10px;
+    float: left;
+}
+
+.list-submit-cat {
+    width: 20%;
+    margin: 20px 0px 20px 0px;
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    font-weight: 100;
+    float: left;
+}
+
+.list-submit-cat:hover {
+    background-color: #EB0000;
+    color: white;
+    border: 1px solid #EB0000;
+    font-weight: bold;
+}
+
+#cat-item-list {
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+#cat-button {
+    height: 100%;
+    margin-left: 5px;
+    background-color: white;
+    border: 1px solid lightgrey;
+    
+}
+
+#cat-button:hover {
+    background-color: red;
+    color: white;
+}
+
+#cat-name {
+    padding-right: 10px;
+}
+
+#list-alert {
+    color: #EB0000;
+}
